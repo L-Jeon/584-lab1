@@ -1,2 +1,2 @@
-# 584-lab1
- Lab 1 for 584
+# ctin583-lab01
+Lab 01 C# Hello World
